@@ -63,12 +63,12 @@ insert into Countries values
 ('SG','Singapore',3),('UK','United Kingdom',1),('US','United States of America',2),
 ('ZM','ZAMBIA',4),('zw','Zimbabwe',4);
 
-INSERT INTO Countries VALUES ('EU','EUROPE',1),('OX','OXFORD',1);
+--INSERT INTO Countries VALUES ('EU','EUROPE',1),('OX','OXFORD',1);
 
-ALTER TABLE location ADD CONSTRAINT  FK__location__countr__3B75D760 CHECK (country_id='');
+--ALTER TABLE location ADD CONSTRAINT  FK__location__countr__3B75D760 CHECK (country_id='');
 
 ALTER TABLE location
-NOCHECK CONSTRAINT FK__location__countr__3B75D760;
+NOCHECK CONSTRAINT FK__location__countr__29572725;
 
 insert into location values
 (1000, '1297 via cola di rie','989', 'Roma','Roma','IT'),
@@ -93,7 +93,7 @@ insert into location values
 (2900,'20 RUE DES Corps-Saints','1730','Geneva','Geneve','CH'),
 (3000,'MURTENSTRASSE 921','3095','BERN','BE','CH'),
 (3100,'PIETER BREUGHELSTRAAT B37','3029SK','UTRECHIT','UTRECHIT','NL'),
-(3200,'MARIANO ESCOBEDO 9991','11932','Mexico city','Distrito federal','Eu');
+(3200,'MARIANO ESCOBEDO 9991','11932','Mexico city','Distrito federal','Europe');
 
 
 insert into department values 
