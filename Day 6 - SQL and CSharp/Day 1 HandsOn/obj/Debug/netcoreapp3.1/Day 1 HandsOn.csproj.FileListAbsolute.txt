@@ -1,0 +1,14 @@
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\Day 1 HandsOn\Day 1 HandsOn\bin\Debug\netcoreapp3.1\Day 1 HandsOn.exe
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\Day 1 HandsOn\Day 1 HandsOn\bin\Debug\netcoreapp3.1\Day 1 HandsOn.deps.json
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\Day 1 HandsOn\Day 1 HandsOn\bin\Debug\netcoreapp3.1\Day 1 HandsOn.runtimeconfig.json
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\Day 1 HandsOn\Day 1 HandsOn\bin\Debug\netcoreapp3.1\Day 1 HandsOn.runtimeconfig.dev.json
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\Day 1 HandsOn\Day 1 HandsOn\bin\Debug\netcoreapp3.1\Day 1 HandsOn.dll
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\Day 1 HandsOn\Day 1 HandsOn\bin\Debug\netcoreapp3.1\Day 1 HandsOn.pdb
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\Day 1 HandsOn\Day 1 HandsOn\obj\Debug\netcoreapp3.1\Day 1 HandsOn.csproj.AssemblyReference.cache
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\Day 1 HandsOn\Day 1 HandsOn\obj\Debug\netcoreapp3.1\Day 1 HandsOn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\Day 1 HandsOn\Day 1 HandsOn\obj\Debug\netcoreapp3.1\Day 1 HandsOn.AssemblyInfoInputs.cache
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\Day 1 HandsOn\Day 1 HandsOn\obj\Debug\netcoreapp3.1\Day 1 HandsOn.AssemblyInfo.cs
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\Day 1 HandsOn\Day 1 HandsOn\obj\Debug\netcoreapp3.1\Day 1 HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\Day 1 HandsOn\Day 1 HandsOn\obj\Debug\netcoreapp3.1\Day 1 HandsOn.dll
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\Day 1 HandsOn\Day 1 HandsOn\obj\Debug\netcoreapp3.1\Day 1 HandsOn.pdb
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\Day 1 HandsOn\Day 1 HandsOn\obj\Debug\netcoreapp3.1\Day 1 HandsOn.genruntimeconfig.cache
