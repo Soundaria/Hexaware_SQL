@@ -1,0 +1,10 @@
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\ClassLibrary1\ClassLib_Project.Tests\bin\Debug\netcoreapp3.1\ClassLib_Project.Tests.deps.json
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\ClassLibrary1\ClassLib_Project.Tests\bin\Debug\netcoreapp3.1\ClassLib_Project.Tests.dll
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\ClassLibrary1\ClassLib_Project.Tests\bin\Debug\netcoreapp3.1\ClassLib_Project.Tests.pdb
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\ClassLibrary1\ClassLib_Project.Tests\obj\Debug\netcoreapp3.1\ClassLib_Project.Tests.csproj.AssemblyReference.cache
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\ClassLibrary1\ClassLib_Project.Tests\obj\Debug\netcoreapp3.1\ClassLib_Project.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\ClassLibrary1\ClassLib_Project.Tests\obj\Debug\netcoreapp3.1\ClassLib_Project.Tests.AssemblyInfoInputs.cache
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\ClassLibrary1\ClassLib_Project.Tests\obj\Debug\netcoreapp3.1\ClassLib_Project.Tests.AssemblyInfo.cs
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\ClassLibrary1\ClassLib_Project.Tests\obj\Debug\netcoreapp3.1\ClassLib_Project.Tests.csproj.CoreCompileInputs.cache
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\ClassLibrary1\ClassLib_Project.Tests\obj\Debug\netcoreapp3.1\ClassLib_Project.Tests.dll
+C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\C#\ClassLibrary1\ClassLib_Project.Tests\obj\Debug\netcoreapp3.1\ClassLib_Project.Tests.pdb
